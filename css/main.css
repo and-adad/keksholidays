@@ -12,7 +12,7 @@ body {
 .center-wrapper {
 	box-sizing: border-box;
 	margin: 0 auto;
-	max-width: 957px;
+	max-width: 950px;
 }
 
 .clearfix::after
